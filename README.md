@@ -22,6 +22,7 @@ The outcomes of this analysis will be instrumental in understanding the factors 
 These insights can guide decisions on **content acquisition**, **marketing strategies**, and **customer engagement initiatives**.
 
 ## Data Structure
+<img width="812" height="802" alt="Diagram" src="https://github.com/user-attachments/assets/0d0af2a5-5d42-4802-8251-5b5294c36678" />
 
 
 This dataset contains tables, in CSV format:
